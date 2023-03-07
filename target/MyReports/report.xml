@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="1.121" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Amazon Search" name="Search for Product" time="0.11">
+<system-out><![CDATA[
+Given User login to application.............................................passed
+When Enter the product name as "Macbook Pro"................................passed
+Then Product name should display in results as "Macbook Pro"................passed
+]]></system-out>
+</testcase>
+</testsuite>
